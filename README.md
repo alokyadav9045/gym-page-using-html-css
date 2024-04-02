@@ -63,3 +63,164 @@ hello everyone i am creating the gym login and registration page by using html a
      </div>
 </body>
 </html>
+
+
+# Css code for this page 
+.head :hover{
+    color: rgb(247, 94, 11);
+    text-shadow: 2px 2px 8px black;
+    font-size: 230%;
+    text-decoration: underline;
+    text-shadow: 2px 2px 10px rgb(237, 228, 228);
+
+}
+.head{
+    color: aqua;
+    text-shadow: 3px 3px 8px red;
+    font-size: 220%;
+    text-align: center;
+    text-decoration: underline;
+    margin-left: 250px;
+    margin-right: 250px;
+
+}
+.main{
+    text-align: center;
+    line-height: 1.5;
+    color: rgb(71, 231, 212);
+    font-size: 30px;
+    color: aqua;
+    background-color: brown;
+    background: linear-gradient(to bottom right, rgb(16, 17, 17), rgb(62, 79, 235));
+    box-shadow:
+      8px 8px 10px 0px deeppink,
+      -5px -5px 5px 0px blue,
+      5px 5px 15px 0px yellow;
+    padding: 0em 1em;
+    border-radius: 16px;
+    border-style: solid;
+    margin-left: 10px;
+    font: 24px sans-serif;
+    line-height: 2;
+    margin-right: 400px;
+    margin-left: 400px;
+    margin-bottom: 100px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.resgister{
+    text-align: center;
+    color: bisque;
+    text-decoration: underline;
+    text-shadow: red;
+    margin-top: 1cm;
+}
+.gender{
+    text-align: center;
+    color: rgb(237, 237, 47);
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.gender:hover{
+    font-size: 130%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.button{
+    text-align: center;
+    color: rgb(213, 213, 224);
+    background-color: aqua;
+    width: 3.5cm;
+    height: 1.2cm;
+    font-size: 100%;
+    margin-top: 1cm;
+    margin-bottom: 2cm;
+    border-radius: 50px;
+}
+.button:hover{
+    width: 4cm;
+    height: 1.5cm;
+    color: rgb(11, 10, 9);
+    background-color:darksalmon ;
+}
+*{
+    background-image: url('.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    backdrop-filter: 10px;
+}
+#name{
+    color: aliceblue;
+    background-color: black;
+    width: 5cm;
+    height: 0.6cm;
+    box-shadow: 2px 2px 8px red;
+    border-radius: 50px;
+    border-color: aqua;
+    text-size-adjust: 200%;
+
+}
+#address{
+    color: aliceblue;
+    background-color: black;
+    width: 5cm;
+    height: 0.6cm;
+    box-shadow: 2px 2px 8px red;
+    border-radius: 50px;
+    border-color: aqua;
+    text-size-adjust: 200%;
+
+}
+#date{
+    color: aliceblue;
+    background-color: black;
+    width: 5cm;
+    height: 0.6cm;
+    box-shadow: 2px 2px 8px red;
+    border-radius: 50px;
+    border-color: aqua;
+    text-size-adjust: 200%;
+}
+#female{
+    color: azure;
+}
+#male{
+    color: beige;
+}
+#shift{
+    color: aliceblue;
+    background-color: black;
+    width: 5cm;
+    height: 0.6cm;
+    box-shadow: 2px 2px 8px red;
+    border-radius: 50px;
+    border-color: aqua;
+    text-size-adjust: 200%;
+
+}
+#mobile{
+    color: aliceblue;
+    background-color: black;
+    width: 5cm;
+    height: 0.6cm;
+    box-shadow: 2px 2px 8px red;
+    border-radius: 50px;
+    border-color: aqua;
+    text-size-adjust: 200%;
+
+}
+.footer{
+    text-align: center;
+    color: aqua;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    font-style: italic;
+    font-size: large;
+
+}
+body{
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    backdrop-filter: 10px;
+    background-position: ;
+}
